@@ -1,4 +1,8 @@
 # University-Management-System
+
+Table Structure
+![Alt text](https://github.com/mhtkmr74/University-Management-System/blob/master/screenshots/table.PNG)
+
 ![Alt text](https://github.com/mhtkmr74/University-Management-System/blob/master/screenshots/Capture1.PNG "CAPTURE 1")
 ![Alt text](https://github.com/mhtkmr74/University-Management-System/blob/master/screenshots/Capture2.PNG "CAPTURE 2")
 ![Alt text](https://github.com/mhtkmr74/University-Management-System/blob/master/screenshots/Capture3.PNG "CAPTURE 3")
